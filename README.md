@@ -7,7 +7,7 @@ This project also uses one or the other NPM modules, which should make the whole
 
 However, the basic essence of the project is the use of the Taskrunners Gulp. 
 Beside the included plugins also some basic functions of gulp itself will be tested, such as file watchers.
-#### Verwendete Gulp Plugins:
+#### Gulp Plugins in Use
 * gulp-concat
 * gulp-uglify-es
 * gulp-sass | node sass
